@@ -1,6 +1,6 @@
 🕸️ Cobweb – SSH Honeypot in C++
 
-Cobweb is a modular SSH honeypot written in pure C++ (no Python bloat) designed to silently lure and log unauthorized SSH access attempts. It's ideal for cybersecurity research, threat intelligence, or just catching curious scanners.
+Cobweb is a modular SSH honeypot written in pure C++ (no Python bloat) designed to silently lure and log unauthorized SSH access attempts. It's ideal for bored people lol.
 
 Built from scratch in C++ for full transparency and performance
 
